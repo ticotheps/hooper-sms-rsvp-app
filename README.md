@@ -19,7 +19,7 @@
   gathering SMS RSVPs for morning basketball.
 - Luckily, the up-and-coming, young hoop star, Logan Collison-Russell, stepped
   up and inherited the privilege of coordinating attendance for morning
-  basketball through SMS RSVPs.
+  basketball through SMS RSVPs. <img src='assets/sms_rsvp_example.jpeg'>
 
 ## The Problem
 
